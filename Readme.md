@@ -5,7 +5,7 @@
 
 ## **About**
 
-XFractLab is a program to render fractals using specialized formulas. Built in compiler lets you image a wide variety of fractals while maintaining high performance. Multithreaded renderer scales with any number of cores, allowing to use your machine to its full capabilities.
+XFractLab is a fractal rendering program. Built in formula editor and compiler lets you image a wide variety of fractals while maintaining high performance. Multithreaded renderer scales with any number of cores, allowing to use your machine to its full capabilities.
 
 ## **Formulas**
 XFractLab supports subset of UltraFractal formula syntax. Formulas are compiled directly to machine code, enabling creativity and freedom without compromising speed. You can implement your own fractals, explore, share with others.
